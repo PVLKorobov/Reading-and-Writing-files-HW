@@ -8,6 +8,6 @@
 ## Задание 3
 Код в файле [task3](/task3.py)
 
-Файлы для задачи в [/task3 files](/task3-files-toread)
+Файлы для задачи в [/task3-files-toread](/task3-files-toread)
 
 Файл с результатом работы программы в файле [task3.txt](task3.txt)
