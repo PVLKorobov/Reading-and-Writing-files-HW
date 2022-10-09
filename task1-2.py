@@ -46,5 +46,4 @@ with open("recipes.txt", "r", encoding="utf-8") as recipebook:
                                     "quanity": quanity, 
                                     "measure": measure}]
         blank = recipebook.readline()
-# print(cook_book)
 print(get_shop_list_from_dishes(["Омлет"], 4))
